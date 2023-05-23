@@ -253,6 +253,10 @@ h3{
   padding: 0%;
 }
 
+.testimonios .seccion-descripcion{
+  padding: auto;
+}
+
 .testimonios .carousel {
   max-width: 100vw;
 }
